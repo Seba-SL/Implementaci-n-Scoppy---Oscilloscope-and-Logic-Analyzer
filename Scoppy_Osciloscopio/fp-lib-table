@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "RaspberryPicow")(type "KiCad")(uri "/home/sebastian/Kicad PCBs/Nuevo Raspberry Pico w/RASPBERRY_PI_PICO_W")(options "")(descr ""))
+)
